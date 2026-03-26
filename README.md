@@ -1,6 +1,6 @@
 # ✅ To-Do App
 
-A task management app with drag & drop functionality built in React.js.
+A task management app with drag & drop functionality built in Javascript.
 
 ## ✨ Features
 - 📝 Full Task Management System
